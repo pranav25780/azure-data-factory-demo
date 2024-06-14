@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-pkumar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "864485b8-5153-494f-b5ae-9eba4571256c",
+		"tenantId": "9e65e880-0b20-43cc-b9d7-cbe38d3d8ff2"
+	}
+}
